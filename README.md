@@ -23,12 +23,12 @@ you can apply the same logic and steps to setup any alias
 
 Going from this :
 ```sh
-git clone https://github.com/zackAJ/<projec-name>
+git clone https://github.com/zackAJ/<project-name>
 ```
 
 To this :
 ```sh
-clone <projec-name>
+clone <project-name>
 ```
 
 ---
