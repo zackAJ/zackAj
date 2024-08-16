@@ -21,7 +21,7 @@
 
 <a href="https://github.com/zackAj" target="_blank">
   <img src="https://github-readme-stats-zackaj.vercel.app/api?username=zackAJ&include_all_commits=true&count_private=true&theme=codeSTACKr" width="45%"/>
-  <img src="https://github-readme-stats-zackaj.vercel.app/api/top-langs?username=zackAJ&exclude_repo=notes&exclude_repo=legacyNotes&show_icons=true&layout=compact&theme=codeSTACKr" width="45%"  alt="zackAJ"/>
+  <img src="https://github-readme-stats-zackaj.vercel.app/api/top-langs?username=zackAJ&exclude_repo=notes,legacyNotes&show_icons=true&layout=compact&theme=codeSTACKr" width="45%"  alt="zackAJ"/>
 
 </a>
 
