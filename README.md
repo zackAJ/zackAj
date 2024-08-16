@@ -1,7 +1,4 @@
 <div align='center'>
-  
-### <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
 <div align='left'>
 
 <div align=center> 
