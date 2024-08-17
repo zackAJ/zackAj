@@ -12,17 +12,11 @@
 </div>
 </div>
 
-</br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
-
-<a href="https://github.com/zackAj" target="_blank">
-  <img src="https://github-readme-stats-zackaj.vercel.app/api?username=zackAJ&include_all_commits=true&count_private=true&theme=codeSTACKr" width="45%"/>
-  <img src="https://github-readme-stats-zackaj.vercel.app/api/top-langs?username=zackAJ&exclude_repo=notes,legacyNotes&show_icons=true&layout=compact&theme=codeSTACKr" width="45%"  alt="zackAJ"/>
-
-</a>
-
-</div>
+<img src="https://github-readme-stats-zackaj.vercel.app/api/top-langs?username=zackAJ&exclude_repo=notes,legacyNotes&show_icons=true&layout=donut-vertical&theme=codeSTACKr"/>
+<br>
+<img src="https://github-readme-stats-zackaj.vercel.app/api?username=zackAJ&include_all_commits=true&count_private=true&theme=codeSTACKr" width="45%"/>
